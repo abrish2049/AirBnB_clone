@@ -165,6 +165,5 @@ class TestFileStorage_methods(unittest.TestCase):
         self.assertIn("Review." + rv.id, objs)
 
 
-
 if __name__ == "__main__":
     unittest.main()
