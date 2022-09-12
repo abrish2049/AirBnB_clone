@@ -1,1 +1,1 @@
-WEb Static
+Web Static Stuff
